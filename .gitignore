@@ -106,6 +106,8 @@ venv.bak/
 # Pycharm
 .idea/
 
-data/
+data/emg
+data/Omniglot
+data/Omniglot_Raw
 logs/
 models/
